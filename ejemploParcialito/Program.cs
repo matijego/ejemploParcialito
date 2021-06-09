@@ -12,7 +12,7 @@ namespace ejemploParcialito
             int legajo, contadorNotas;
             float nota1, nota2, nota3, promedio;
             contadorNotas = 0;
-            //wep
+            
             legajo = cargarLegajo();
             nombreAlumno = cargarNombre();
             nota1 = cargarNota(ref contadorNotas);
